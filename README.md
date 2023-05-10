@@ -6,4 +6,4 @@ I'm a full stack developer with a love for all things that can fit in Vue, React
 
 When I'm not coding, you can find me indulging in my latest video game obsession or just going through goofy stuff online.
 
-So go ahead, take a peek at my projects, grab a cup of coffee, and let's see what we can create together! Who knows, maybe you might find my ☕ Teapot ☕ somewhere 😃!
+So go ahead, take a peek at my projects, grab a cup of coffee, and let's see what we can create together! Who knows, maybe you might find my ☕ Teapot ☕ somewhere 😃! Just bring 418 with you. My teapot doesn't like being alone.
